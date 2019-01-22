@@ -40,7 +40,7 @@ function selectDifferentDrivers(drivers, m) {
   if (1){
  m = returnFirstTwoDrivers(drivers)
  }else {
-  m= 
+  m = returnLastTwoDrivers(drivers)
  }
-return m = returnLastTwoDrivers(drivers)
+return m 
 }
