@@ -32,7 +32,7 @@ const fareDoubler = function (createFareMultiplier) {
 }
 
 
-const fareTripler = function (createFareMultiplier) {
+const fareTripler = function (createFareMultiplier()) {
   return createFareMultiplier() * 2
 
 }
