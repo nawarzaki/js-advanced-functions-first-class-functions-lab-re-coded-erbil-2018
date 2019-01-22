@@ -20,7 +20,7 @@ function selectingDrivers(drivers) {
   return x
 }
 
-const createFareMultiplier = function (x) {
-  let y = x**2
-return y
+c
+  const fareQuintupler = createFareMultiplier(x){
+return x*x
 }
