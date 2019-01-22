@@ -36,3 +36,6 @@ const fareTripler = function (createFareMultiplier) {
   return createFareMultiplier * 3
 
 }
+function fetchSpecifiedDrivers() {
+  
+}
