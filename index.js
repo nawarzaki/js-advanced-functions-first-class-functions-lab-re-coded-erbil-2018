@@ -1,4 +1,5 @@
 // Code your solution in this file!
+ returnFirstTwoDrivers(drivers)
 function returnFirstTwoDrivers(drivers) {
  const x = function (drivers) {
    return drivers.slice(0,2)
