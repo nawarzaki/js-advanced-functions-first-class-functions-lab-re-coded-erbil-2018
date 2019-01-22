@@ -19,3 +19,8 @@ function selectingDrivers(drivers) {
   x.push(returnFirstTwoDrivers(), returnLastTwoDrivers())
   return x
 }
+
+const createFareMultiplier = function (x) {
+  return x*x
+  
+}
