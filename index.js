@@ -16,6 +16,7 @@ const returnLastTwoDrivers =  function (drivers) {
 
 function selectingDrivers(drivers) {
   let x = []
-  x.push(returnFirstTwoDrivers(drivers), returnLastTwoDrivers(drivers))
+  x.push(returnFirstTwoDrivers, returnLastTwoDrivers)
   return x
 }
+
