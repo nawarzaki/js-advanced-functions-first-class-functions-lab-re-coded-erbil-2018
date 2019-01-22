@@ -21,6 +21,6 @@ function selectingDrivers(drivers) {
 }
 
 const createFareMultiplier = function (x) {
-  return x*x
-  
+  let y = x**2
+return y
 }
