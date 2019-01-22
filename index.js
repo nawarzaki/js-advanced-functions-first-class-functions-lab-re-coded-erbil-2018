@@ -29,5 +29,4 @@ return fareQuintupler
 
 const fareDoubler = function (createFareMultiplier) {
   return createFareMultiplier * 2
-
 }
